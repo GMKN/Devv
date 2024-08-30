@@ -1,0 +1,8 @@
+{
+  "name": "serverless-functions",
+  "version": "1.0.0",
+  "main": "send-email.js",
+  "dependencies": {
+    "nodemailer": "^6.9.0"
+  }
+}
